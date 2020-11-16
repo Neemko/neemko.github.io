@@ -1,0 +1,147 @@
+#wrapper
+{
+	width: auto;
+}
+
+#nav
+{
+	width: 20%;
+}
+
+iframe
+{
+	display: none;
+}
+
+/* Header */
+
+#home
+{
+	flex-direction: column;
+	width: 463px;
+	height: 817px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#homeimage img
+{
+	border-radius: 10px 10px 0 0;
+	margin-bottom: 0;
+}
+
+#hometext h1
+{
+	font-size: 2em;
+}
+
+#hometext h2
+{
+	font-size: 1.5em;
+}
+
+
+#profil
+{
+	width: 90%;
+	margin: auto;
+	padding: auto;
+}
+#profil h1
+{
+	font-size: 2em;
+}
+#profil h2
+{
+	font-size: 1.5em;
+	color: #696D6F;
+}
+
+#profil h3
+{
+	font-size: 1.5em;
+}
+
+#titrepro p
+{
+	display: none;
+}
+
+#xppro
+{
+	flex-direction: column;
+	justify-content: space-between;
+	align-content: center;
+}
+
+.element_pro:nth-child(-n+8)
+{
+	width: 100%;
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+.element_pro:nth-child(3)
+{
+	order: 3;
+	padding:0;
+	margin-left:0;
+}
+
+.element_pro:nth-child(7)
+{
+	order: 7;
+	margin-bottom: 5%;
+	margin-left: 0;
+}
+
+.element_pro:nth-child(6) ul
+{
+	padding:0;
+}
+
+.element_pro:nth-child(8) ul
+{
+	padding:0;
+}
+
+
+#divers
+{
+	flex-direction: column;
+}
+.titre p
+{
+	display: none;
+}
+#hobbies p
+{
+	display: none;
+}
+
+.titre
+{
+	width: 100%;
+}
+
+.element_divers
+{
+	width: 100%;
+}
+
+#allhobbies
+{
+	width: auto;
+}
+
+aside
+{
+	width:100%;
+}
+
+
+
+
+
+
+
